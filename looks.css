@@ -59,3 +59,10 @@
     align-items: center;
     margin-left: 2px;
  }
+
+ .verbar{
+   height:200px;
+   width:150px;
+   background-color: teal;
+   
+}
