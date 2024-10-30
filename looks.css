@@ -60,9 +60,16 @@
     margin-left: 2px;
  }
 
- .verbar{
-   height:200px;
-   width:150px;
+.secbar{
    background-color: teal;
-   
+   display: flex;
+}
+.left{
+   background-color:blue;
+   width: 60%;
+   height: 500px;
+}
+.right{
+   background-color: aquamarine;
+   flex-grow: 1;
 }
