@@ -13,7 +13,7 @@
     color: whitesmoke;
     display: flex;
     align-items: center;
-    
+    border-radius: 10px;
  }
 
 .nav-logo{
@@ -77,17 +77,34 @@
 .secbar{
    background-color: teal;
    display: flex;
+   height: 600px;
 }
 .left{
    background-color:blue;
    width: 60%;
-   height: 500px;
+   
 }
+.address{
+   height: 250px;
+   background-color: black;
+   border-radius: 8px;
+   
+}
+
+.servicesopt{
+   height: 100px;
+   
+}
+
 .right{
    background-color: aquamarine;
    flex-grow: 1;
+   border-radius: 10px;
 
-   #rightvideo{
-      position: fixed;
-   }
+   
+}
+#rightvideo{
+   width:100%;
+   height: 500px;
+   
 }
