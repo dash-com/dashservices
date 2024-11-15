@@ -36,12 +36,10 @@
    width: 100px;
    margin-left: 15px;
  }
-
  .border{
     border: 1.5px solid transparent;
 
  }
-
  .border:hover{
     border: 1.5px solid white;
  }
