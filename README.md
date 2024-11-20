@@ -1,7 +1,7 @@
 
-# Dash services
+# At Your Doorstep Services
 
-dash services is a company which provides various services which are required in daily life like electrician, plumber, cleaner, mechanic etc..
+AYD services is a company which provides various services which are required in daily life like electrician, plumber, cleaner, mechanic etc..
 
 
 
@@ -17,4 +17,4 @@ Html
 
 Css
 
-JS
+JS(working on it)
